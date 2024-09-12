@@ -211,3 +211,64 @@ margin: 0px 60px;
 }
 
 /* star area end */
+/* features area start */
+.features{
+    width:960px;
+    margin: 0 auto;
+    height: 500px;
+}
+.features .features-text{
+    text-align: center;
+}
+.features .features-text .features-para{
+    margin:10px 0px;
+}
+.features .features-banner{
+    margin-top: 20px;
+}
+.features .features-banner .single-feature-part-1{
+    display:flex;
+}
+.single-feature-part-2{
+    display:flex;
+}
+.single-feature-banner{
+    width:240px;
+    display: flex;
+}
+.single-feature-banner img{
+    width: 240px;
+    cursor: pointer;
+}
+.single-feature-banner .text-div{
+    width:240px;
+    height:240px;
+    background-color:#F3FcF7 ;
+}
+.single-feature-banner .text-div .btn{
+    margin-top:15px;
+    padding: 10px;
+    background-color:#06C167 ;
+}
+.single-feature-banner .text-div .text-heading{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.single-feature-banner .text-div .text-para{
+    font-size:15px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.single-feature-banner .text-div .btn{
+    margin-top: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.single-feature-banner .text-div .btn img{
+    width:20px;
+    height:10px;
+    margin-left: 7px;
+    
+}
+/* features area end */
