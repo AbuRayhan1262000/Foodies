@@ -272,3 +272,67 @@ margin: 0px 60px;
     
 }
 /* features area end */
+/* product area start */
+.product{
+    width: 960px;
+    margin: 100px auto;
+    height:475px;
+    background-color: ;
+}
+.product .product-text{
+    text-align: left;
+    background-color:;
+    height:80px;
+}
+.product .product-text .product-para{
+    font-size: 15px;
+}
+.product .product-text .product-heading{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.product .product-banner{
+    margin-top: 30px;
+    display: flex;
+
+}
+.product-banner .product-single-banner{
+    width:230px;
+    height:360px;
+    background-color: aquamarine;
+    text-align: center;
+    border: 1px solid rgb(20, 5, 5);
+    margin:0px 8px;
+    cursor: pointer;
+
+}
+.product-banner .product-single-banner:hover{
+    border: 1px solid #06C167;
+}
+.product-single-banner img{
+    margin-top: 20px;
+}
+.product-single-banner .banner-text i{
+    color:#06C167;
+}
+.banner-text .product-para{
+    margin-top:5px;
+}
+.banner-text .product-price{
+    margin-top: 10px;
+}
+.product-single-banner .btn{
+    padding:0px 3px 10px 3px;
+    cursor: pointer;
+    border: 1px solid #06C167 ;
+    color:#06C167;
+    margin-top: 10px;
+    
+}
+.product-single-banner .btn .arrow-sign{
+    width:20px;
+    height:7px;
+    margin-left: 7px;
+}
+/* product area end */
+
